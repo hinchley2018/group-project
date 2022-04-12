@@ -2,6 +2,9 @@
 joe 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
+
+I am working on it Kobir.
+
 1. Fork the repository via the fork button at the top left of the repository page
 2. Click the code button *making sure* that you're using your own personal forked link.
 3. Head back to your own terminal and navigate to the folder where you'd like to save this repository on your local machine
@@ -21,4 +24,11 @@ joe
 
 **That's all! This is all it takes to use GitHub to save progress on your projects!**
 
+
 Azhar was here.
+
+Contributed to by Jaida
+
+
+Joseph Yoon
+
